@@ -1,10 +1,17 @@
 # Purple Directive
 
-Sovereign AI infrastructure. Local-first multi-agent systems running on personal hardware.
+Clinical operations technology and AI-assisted consulting for research sites.
 
-**What's here:**
-- **Violet** — Multi-agent orchestration with E.I.K. deliberation council, persistent memory, and dual runtime (Claude Code + local Ollama). The COO is an AI.
-- **CLI** — Local inference agent with MCP tool calling, dual backend (Ollama + vllm-mlx), and eval framework. Runs on Apple Silicon and CUDA.
-- **violet-v9** — Fine-tuned Qwen3.5-27B with 94.9% identity preservation. Trained on RTX 5090 + M4 Max 128GB.
+## Products
 
-Built by [@TyrianMurex](https://x.com/TyrianMurex) | [purpledirective.com](https://purpledirective.com) | [u/TyrianMurex](https://reddit.com/u/TyrianMurex)
+**[Nexrial](https://nexrial.com)** — Multi-tenant Clinical Trial Management System built for independent research sites. 21 CFR Part 11 compliant, AI-assisted workflows, electronic signatures.
+
+**[SOP Bundles](https://purpledirective.com)** — Ready-to-use Standard Operating Procedures for clinical research sites. ICH-GCP aligned, audit-ready.
+
+## Open Source
+
+**Violet** — Multi-agent AI framework with structured deliberation (E.I.K. advisory council) and domain-specialized operational agents. Powers Purple Directive's internal operations.
+
+---
+
+[purpledirective.com](https://purpledirective.com) | [@TyrianMurex](https://x.com/TyrianMurex) | [u/TyrianMurex](https://reddit.com/u/TyrianMurex)
