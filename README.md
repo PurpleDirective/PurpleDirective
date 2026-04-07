@@ -14,4 +14,4 @@ Clinical operations technology and AI-assisted consulting for research sites.
 
 ---
 
-[purpledirective.com](https://purpledirective.com) | [LinkedIn](https://www.linkedin.com/company/112600090/) | [@TyrianMurex](https://x.com/TyrianMurex) | [u/TyrianMurex](https://reddit.com/u/TyrianMurex)
+[purpledirective.com](https://purpledirective.com) | [LinkedIn](https://www.linkedin.com/company/purpledirective) | [@TyrianMurex](https://x.com/TyrianMurex) | [u/TyrianMurex](https://reddit.com/u/TyrianMurex)
