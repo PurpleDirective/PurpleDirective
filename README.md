@@ -1,16 +1,22 @@
 # Purple Directive
 
-Clinical operations technology and AI-assisted consulting for research sites.
+Building at the intersection of clinical research and AI. Products for research sites, tools for the AI community.
 
 ## Products
 
-**[Nexrial](https://nexrial.com)** — Multi-tenant Clinical Trial Management System built for independent research sites. 21 CFR Part 11 compliant, AI-assisted workflows, electronic signatures.
+**[Nexrial](https://nexrial.com)** — Multi-tenant Clinical Trial Management System for independent research sites. 21 CFR Part 11 compliant, AI-assisted workflows, electronic signatures.
 
-**[SOP Bundles](https://purpledirective.com)** — Ready-to-use Standard Operating Procedures for clinical research sites. ICH-GCP aligned, audit-ready.
+**[SOP Bundles](https://purpledirective.com)** — Ready-to-use Standard Operating Procedures for clinical research. ICH-GCP aligned, audit-ready.
 
-## Open Source
+## AI & Open Source
 
-**Violet** — Multi-agent AI framework with structured deliberation (E.I.K. advisory council) and domain-specialized operational agents. Powers Purple Directive's internal operations.
+**Violet** — Multi-agent AI framework with structured deliberation (E.I.K. advisory council), domain-specialized operational agents, and persistent memory. Built on Claude Code.
+
+**Purple CLI** — Local AI agent with dual inference (Ollama + vllm-mlx), MCP tool calling, and eval framework. *Paused — resuming soon.*
+
+## Writing
+
+Technical deep-dives on building AI systems, fine-tuning models, and running a one-person + AI operation at [purpledirective.com/blog](https://purpledirective.com/blog).
 
 ---
 
